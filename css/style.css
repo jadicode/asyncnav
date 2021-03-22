@@ -1,0 +1,45 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    transition: 0.7s;
+}
+
+body {
+    background-color: #e74c3c;
+    top: 0;
+}
+
+.menu {
+    text-align: center;
+    margin: auto;
+}
+
+ul {
+    display: flex;
+    background-color: #c0392b;
+    padding: 1em;
+}
+
+li {
+    list-style: none;
+    margin: auto;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e74c3c;
+}
+
+h2 {
+    margin-top: 3%;
+    text-align: center;
+}
+
+#main {
+    text-align: center;
+    margin-top: 3%;
+}
