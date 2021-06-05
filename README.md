@@ -1,4 +1,4 @@
 # Async Nav
 - Upgrade your website doing it async!
-# License
+## License
 - Free to use.
